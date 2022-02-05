@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ankitmish77
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning sql
+- 🌱 I’m currently learning powerBi
 - 💞️ I’m looking to collaborate on mail
 - 📫 How to reach me ankitmishra1199@gmail.com
 
